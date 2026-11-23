@@ -1,0 +1,143 @@
+{
+  "method": "ARIMA",
+  "model_name": "Auto-ARIMA (0,1,0)",
+  "horizon_months": 6,
+  "metrics": {
+    "RMSE": 296771.26,
+    "MAE": 200620.06,
+    "MAPE": 26.91,
+    "AIC": 339.43,
+    "BIC": 339.92
+  },
+  "historical": [
+    {
+      "Period": "2010-12",
+      "Revenue": 821452.73,
+      "Orders": 1559,
+      "Quantity": 358019
+    },
+    {
+      "Period": "2011-01",
+      "Revenue": 689811.61,
+      "Orders": 1086,
+      "Quantity": 387099
+    },
+    {
+      "Period": "2011-02",
+      "Revenue": 522545.56,
+      "Orders": 1100,
+      "Quantity": 282934
+    },
+    {
+      "Period": "2011-03",
+      "Revenue": 716215.26,
+      "Orders": 1454,
+      "Quantity": 376599
+    },
+    {
+      "Period": "2011-04",
+      "Revenue": 536968.49,
+      "Orders": 1246,
+      "Quantity": 307953
+    },
+    {
+      "Period": "2011-05",
+      "Revenue": 769296.61,
+      "Orders": 1681,
+      "Quantity": 395001
+    },
+    {
+      "Period": "2011-06",
+      "Revenue": 760547.01,
+      "Orders": 1533,
+      "Quantity": 388511
+    },
+    {
+      "Period": "2011-07",
+      "Revenue": 718076.12,
+      "Orders": 1475,
+      "Quantity": 399693
+    },
+    {
+      "Period": "2011-08",
+      "Revenue": 757841.38,
+      "Orders": 1361,
+      "Quantity": 421020
+    },
+    {
+      "Period": "2011-09",
+      "Revenue": 1056435.19,
+      "Orders": 1837,
+      "Quantity": 569573
+    },
+    {
+      "Period": "2011-10",
+      "Revenue": 1151263.73,
+      "Orders": 2040,
+      "Quantity": 621029
+    },
+    {
+      "Period": "2011-11",
+      "Revenue": 1503866.78,
+      "Orders": 2769,
+      "Quantity": 751377
+    },
+    {
+      "Period": "2011-12",
+      "Revenue": 637790.33,
+      "Orders": 819,
+      "Quantity": 313612
+    }
+  ],
+  "forecast": [
+    {
+      "Period": "2012-01",
+      "Forecast_Revenue": 637790.33,
+      "Lower_80": 241932.74,
+      "Upper_80": 1033647.92,
+      "Lower_95": 32378.38,
+      "Upper_95": 1243202.28
+    },
+    {
+      "Period": "2012-02",
+      "Forecast_Revenue": 637790.33,
+      "Lower_80": 77963.15,
+      "Upper_80": 1197617.51,
+      "Lower_95": 0,
+      "Upper_95": 1493972.11
+    },
+    {
+      "Period": "2012-03",
+      "Forecast_Revenue": 637790.33,
+      "Lower_80": 0,
+      "Upper_80": 1323435.79,
+      "Lower_95": 0,
+      "Upper_95": 1686394.58
+    },
+    {
+      "Period": "2012-04",
+      "Forecast_Revenue": 637790.33,
+      "Lower_80": 0,
+      "Upper_80": 1429505.52,
+      "Lower_95": 0,
+      "Upper_95": 1848614.22
+    },
+    {
+      "Period": "2012-05",
+      "Forecast_Revenue": 637790.33,
+      "Lower_80": 0,
+      "Upper_80": 1522954.82,
+      "Lower_95": 0,
+      "Upper_95": 1991532.59
+    },
+    {
+      "Period": "2012-06",
+      "Forecast_Revenue": 637790.33,
+      "Lower_80": 0,
+      "Upper_80": 1607439.44,
+      "Lower_95": 0,
+      "Upper_95": 2120740.68
+    }
+  ],
+  "chart_file": "forecast_chart.png"
+}

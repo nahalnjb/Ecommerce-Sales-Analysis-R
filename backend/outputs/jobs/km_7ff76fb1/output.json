@@ -1,0 +1,803 @@
+{
+  "k": 4,
+  "total_customers": 3095,
+  "tot_withinss": 2784.182,
+  "betweenss": 6497.818,
+  "totss": 9282,
+  "explained_variance_ratio": 70,
+  "elbow_curve": [
+    {
+      "k": 1,
+      "wss": 9282,
+      "silhouette": 0
+    },
+    {
+      "k": 2,
+      "wss": 4974.71,
+      "silhouette": 0.414
+    },
+    {
+      "k": 3,
+      "wss": 3541.12,
+      "silhouette": 0.397
+    },
+    {
+      "k": 4,
+      "wss": 2784.18,
+      "silhouette": 0.369
+    },
+    {
+      "k": 5,
+      "wss": 2399.42,
+      "silhouette": 0.374
+    },
+    {
+      "k": 6,
+      "wss": 2121.52,
+      "silhouette": 0.336
+    },
+    {
+      "k": 7,
+      "wss": 1976.01,
+      "silhouette": 0.306
+    },
+    {
+      "k": 8,
+      "wss": 1843.02,
+      "silhouette": 0.303
+    }
+  ],
+  "cluster_profiles": [
+    {
+      "Cluster": "2",
+      "Size": 580,
+      "Avg_Recency": 618.3,
+      "Median_Recency": 596.4,
+      "Avg_Frequency": 139.9,
+      "Avg_Monetary": 20469.83,
+      "Total_Spend": 11872501.81,
+      "Size_Percentage": 18.74,
+      "Spend_Percentage": 77.11,
+      "Cluster_Name": "High-Value Elite Champions"
+    },
+    {
+      "Cluster": "1",
+      "Size": 1041,
+      "Avg_Recency": 653.2,
+      "Median_Recency": 612.4,
+      "Avg_Frequency": 14.1,
+      "Avg_Monetary": 2763.73,
+      "Total_Spend": 2877039.99,
+      "Size_Percentage": 33.63,
+      "Spend_Percentage": 18.68,
+      "Cluster_Name": "Occasional / Mid-Tier Buyers"
+    },
+    {
+      "Cluster": "3",
+      "Size": 676,
+      "Avg_Recency": 991.4,
+      "Median_Recency": 976.9,
+      "Avg_Frequency": 3.4,
+      "Avg_Monetary": 624.52,
+      "Total_Spend": 422178.9,
+      "Size_Percentage": 21.84,
+      "Spend_Percentage": 2.74,
+      "Cluster_Name": "At-Risk / Inactive Customers"
+    },
+    {
+      "Cluster": "4",
+      "Size": 798,
+      "Avg_Recency": 651.4,
+      "Median_Recency": 626.2,
+      "Avg_Frequency": 2.4,
+      "Avg_Monetary": 283.23,
+      "Total_Spend": 226017.91,
+      "Size_Percentage": 25.78,
+      "Spend_Percentage": 1.47,
+      "Cluster_Name": "Occasional / Mid-Tier Buyers"
+    }
+  ],
+  "customer_samples": [
+    {
+      "CustomerID": "0015a82c2db000af6aaaf3ae2ecb0532",
+      "Recency": 898.9436,
+      "Frequency": 3,
+      "Monetary": 2685,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "001cca7ae9ae17fb1caed9dfb1094831",
+      "Recency": 631.0311,
+      "Frequency": 200,
+      "Monetary": 30612.42,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "001e6ad469a905060d959994f1b41e4f",
+      "Recency": 605.979,
+      "Frequency": 1,
+      "Monetary": 250,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "002100f778ceb8431b7a1020ff7ab48f",
+      "Recency": 723.3912,
+      "Frequency": 51,
+      "Monetary": 1318,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "003554e2dce176b5555353e4f3555ac8",
+      "Recency": 841.6417,
+      "Frequency": 1,
+      "Monetary": 120,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "004c9cd9d87a3c30c522c48c4fc07416",
+      "Recency": 701.5138,
+      "Frequency": 158,
+      "Monetary": 21896.38,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "00720abe85ba0859807595bbf045a33b",
+      "Recency": 612.229,
+      "Frequency": 13,
+      "Monetary": 1555.9,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "00ab3eff1b5192e5f1a63bcecfee11c8",
+      "Recency": 1114.4547,
+      "Frequency": 1,
+      "Monetary": 98,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "00d8b143d12632bad99c0ad66ad52825",
+      "Recency": 745.4617,
+      "Frequency": 1,
+      "Monetary": 86,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "00ee68308b45bc5e2660cd833c3f81cc",
+      "Recency": 604.253,
+      "Frequency": 135,
+      "Monetary": 26280,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "00fc707aaaad2d31347cf883cd2dfe10",
+      "Recency": 659.252,
+      "Frequency": 103,
+      "Monetary": 16982.25,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "010543a62bd80aa422851e79a3bc7540",
+      "Recency": 976.3542,
+      "Frequency": 2,
+      "Monetary": 1416,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "010da0602d7774602cd1b3f5fb7b709e",
+      "Recency": 665.1659,
+      "Frequency": 1,
+      "Monetary": 2548.5,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "011b0eaba87386a2ae96a7d32bb531d1",
+      "Recency": 1267.2618,
+      "Frequency": 1,
+      "Monetary": 149.97,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "01266d4c46afa519678d16a8b683d325",
+      "Recency": 596.7358,
+      "Frequency": 3,
+      "Monetary": 90.25,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "013900e863eace745d3ec7614cab5b1a",
+      "Recency": 722.2377,
+      "Frequency": 23,
+      "Monetary": 1838.5,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "014c0679dd340a0e338872e7ec85666a",
+      "Recency": 639.961,
+      "Frequency": 14,
+      "Monetary": 7398,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "014d9a685fd57276679edd00e07089e5",
+      "Recency": 597.3367,
+      "Frequency": 11,
+      "Monetary": 913.85,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "0176f73cc1195f367f7b32db1e5b3aa8",
+      "Recency": 602.8053,
+      "Frequency": 38,
+      "Monetary": 4922.9,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "01bcc9d254a0143f0ce9791b960b2a47",
+      "Recency": 792.5133,
+      "Frequency": 11,
+      "Monetary": 1521.21,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "01c97ebb5cdac52891c0ed1c37ba0012",
+      "Recency": 617.1049,
+      "Frequency": 9,
+      "Monetary": 755.3,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "01cf7e3d21494c41fb86034f2e714fa1",
+      "Recency": 767.7666,
+      "Frequency": 61,
+      "Monetary": 10299.28,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "01ed254b9ff8407dfb9d99ba1e17d923",
+      "Recency": 872.0831,
+      "Frequency": 5,
+      "Monetary": 1465.99,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "01fd077212124329bac32490e8ef80d9",
+      "Recency": 591.7707,
+      "Frequency": 31,
+      "Monetary": 1615,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "01fdefa7697d26ad920e9e0346d4bd1b",
+      "Recency": 597.0172,
+      "Frequency": 129,
+      "Monetary": 15140.23,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "0241d4d5d36f10f80c644447315af0bd",
+      "Recency": 588.8052,
+      "Frequency": 238,
+      "Monetary": 33476.8,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "0249d282d911d23cb8b869ab49c99f53",
+      "Recency": 743.9913,
+      "Frequency": 11,
+      "Monetary": 393,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "024b564ae893ce8e9bfa02c10a401ece",
+      "Recency": 1149.1589,
+      "Frequency": 2,
+      "Monetary": 1994.4,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "028872bfa080090a9d0abd4f1af168f8",
+      "Recency": 960.5486,
+      "Frequency": 1,
+      "Monetary": 141,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "02a2272692e13558373c66db98f05e2e",
+      "Recency": 1123.418,
+      "Frequency": 2,
+      "Monetary": 54.98,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "02b72cdeb9cfcc429f1af6f4e3f3b737",
+      "Recency": 595.0902,
+      "Frequency": 4,
+      "Monetary": 522.65,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "02c988090b766852e088c69d7fb3b551",
+      "Recency": 599.5277,
+      "Frequency": 13,
+      "Monetary": 1713.65,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "02d35243ea2e497335cd0f076b45675d",
+      "Recency": 611.1872,
+      "Frequency": 14,
+      "Monetary": 6332,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "02dcd3e8e25bee036e32512bcf175493",
+      "Recency": 588.7985,
+      "Frequency": 14,
+      "Monetary": 1736.9,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "02ecc2a19303f05e59ce133fd923fff7",
+      "Recency": 590.813,
+      "Frequency": 21,
+      "Monetary": 6148.29,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "02f5837340d7eb4f653d676c7256523a",
+      "Recency": 605.3402,
+      "Frequency": 30,
+      "Monetary": 3883.05,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "02f623a8eb246f3c5f7c2f96462654e6",
+      "Recency": 592.9374,
+      "Frequency": 44,
+      "Monetary": 6378,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "0307f7565ff85b299b6e5ef162b1b1a9",
+      "Recency": 1045.6058,
+      "Frequency": 7,
+      "Monetary": 4728.8,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "0336182e1b3e92f029d5354832045fdf",
+      "Recency": 1278.2749,
+      "Frequency": 1,
+      "Monetary": 119.2,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "034b9387752bfa309f350a70cd45ffa3",
+      "Recency": 595.2574,
+      "Frequency": 8,
+      "Monetary": 96,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "038b75b729c8a9a04b0d07cba7eabe86",
+      "Recency": 711.1274,
+      "Frequency": 2,
+      "Monetary": 467,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "039b29ff3b3473435d0cd59040575de9",
+      "Recency": 588.3506,
+      "Frequency": 9,
+      "Monetary": 114.9,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "039e6ad9dae79614493083e241147386",
+      "Recency": 613.0618,
+      "Frequency": 5,
+      "Monetary": 12925,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "03a2a6dcbe45d639c4dc2a0d24769c40",
+      "Recency": 599.1691,
+      "Frequency": 9,
+      "Monetary": 1078.41,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "03bd479e1d9484cdb14104d3023f7321",
+      "Recency": 616.202,
+      "Frequency": 3,
+      "Monetary": 359.7,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "0417b067eeab773d2f7061a726dc477f",
+      "Recency": 596.2911,
+      "Frequency": 13,
+      "Monetary": 1859.18,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "042573af89b6d931f672efaf789d8358",
+      "Recency": 785.3797,
+      "Frequency": 3,
+      "Monetary": 413.48,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "04308b1ee57b6625f47df1d56f00eedf",
+      "Recency": 592.3961,
+      "Frequency": 94,
+      "Monetary": 60130.6,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "0432ead42b6c8a0bdf68154add917fdf",
+      "Recency": 617.8268,
+      "Frequency": 85,
+      "Monetary": 8437.4,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "044668ccd5316b12a7cf0d54a156e3e9",
+      "Recency": 592.0452,
+      "Frequency": 3,
+      "Monetary": 171.37,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "04843805947f0fc584fc1969b6e50fe7",
+      "Recency": 610.3089,
+      "Frequency": 1,
+      "Monetary": 2100,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "048c2757535328e0d7dac690ad3c0aae",
+      "Recency": 595.2393,
+      "Frequency": 51,
+      "Monetary": 9264.78,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "04aa0a1c5ce6b222003403a3e11c3cc0",
+      "Recency": 801.3104,
+      "Frequency": 11,
+      "Monetary": 9046,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "04aba03279157f6d4e0fe8ccaf21963c",
+      "Recency": 585.3687,
+      "Frequency": 16,
+      "Monetary": 2575.9,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "04e38a233f726ef161074ab1c9b0399a",
+      "Recency": 702.0444,
+      "Frequency": 23,
+      "Monetary": 1582.4,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "04ee0ec01589969663ba5967c0e0bdc0",
+      "Recency": 592.4475,
+      "Frequency": 1,
+      "Monetary": 289.49,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "04fdea0c111866e6cf812f1570d6b5bd",
+      "Recency": 793.347,
+      "Frequency": 10,
+      "Monetary": 1055,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "0509040ea3fe50071181bbc359eb7738",
+      "Recency": 611.4062,
+      "Frequency": 89,
+      "Monetary": 4084.64,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "052577151711aec5c744fe12e66db3e1",
+      "Recency": 835.4336,
+      "Frequency": 4,
+      "Monetary": 2748,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "054694fa03fe82cec4b7551487331d74",
+      "Recency": 724.6838,
+      "Frequency": 21,
+      "Monetary": 10382.1,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "056b4ada5bbc2c50cc7842547dda6b51",
+      "Recency": 590.8332,
+      "Frequency": 65,
+      "Monetary": 12493.38,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "0570350b23eda5444f8d1d9544932058",
+      "Recency": 683.0865,
+      "Frequency": 6,
+      "Monetary": 1243.8,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "05730013efda596306417c3b09302475",
+      "Recency": 590.8124,
+      "Frequency": 4,
+      "Monetary": 952,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "058cb5aeb36d7c0fcae20fc85d5e0a59",
+      "Recency": 597.9606,
+      "Frequency": 12,
+      "Monetary": 1373,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "058fd0aa2bfdb2274e05e1ae971dabb6",
+      "Recency": 665.1105,
+      "Frequency": 61,
+      "Monetary": 8123.4,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "05a48cc8859962767935ab9087417fbb",
+      "Recency": 610.3964,
+      "Frequency": 1,
+      "Monetary": 42.9,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "05a940b4ecae36cadfd8e93bd9c43257",
+      "Recency": 774.2554,
+      "Frequency": 10,
+      "Monetary": 952,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "05aebce0b5c8f0d41b29b686f2d05fd3",
+      "Recency": 599.7707,
+      "Frequency": 2,
+      "Monetary": 74.99,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "05ca864204d09595ae591b93ea9cf93d",
+      "Recency": 596.7916,
+      "Frequency": 1,
+      "Monetary": 179.9,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "05d2173d43ea568aa0540eba70d2ca76",
+      "Recency": 602.7575,
+      "Frequency": 62,
+      "Monetary": 6047.92,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "05e107217c7266362fd44b75b2cd4cc4",
+      "Recency": 591.4165,
+      "Frequency": 5,
+      "Monetary": 236.17,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "05f51e13da97139648b8125c31e5f51b",
+      "Recency": 743.4858,
+      "Frequency": 60,
+      "Monetary": 14717.71,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "05feb94f19d094d4b0f9281f0b1d4c99",
+      "Recency": 778.1282,
+      "Frequency": 6,
+      "Monetary": 9353,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "05ff92fedb5be47920fea08e501238b9",
+      "Recency": 610.0347,
+      "Frequency": 59,
+      "Monetary": 22666.18,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "062c325cd6a2b87845fab56b4ec2eeae",
+      "Recency": 612.0216,
+      "Frequency": 2,
+      "Monetary": 133.22,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "062ce95fa2ad4dfaedfc79260130565f",
+      "Recency": 939.9167,
+      "Frequency": 55,
+      "Monetary": 8252.3,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "06532f10282704ef4c69168b914b77be",
+      "Recency": 960.8405,
+      "Frequency": 8,
+      "Monetary": 10252.5,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "06579cb253ecd5a3a12a9e6eb6bf8f47",
+      "Recency": 606.0353,
+      "Frequency": 62,
+      "Monetary": 5712.5,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "066a6914e1ebf3ea95a216c73a986b91",
+      "Recency": 602.4235,
+      "Frequency": 68,
+      "Monetary": 9909.37,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "0691148aee60ca47977c187804f935ae",
+      "Recency": 584.5491,
+      "Frequency": 47,
+      "Monetary": 7172.51,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "0692610d8abe24f287e9fae90ea0bbee",
+      "Recency": 592.8269,
+      "Frequency": 4,
+      "Monetary": 173.99,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "06a2c3af7b3aee5d69171b0e14f0ee87",
+      "Recency": 584.8089,
+      "Frequency": 392,
+      "Monetary": 37663.78,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "06bb3a2fe5e7b7a845b13e8fb91bd944",
+      "Recency": 641.9611,
+      "Frequency": 17,
+      "Monetary": 1610.69,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "06df0c10d34e459d9672bc77388742eb",
+      "Recency": 611.1044,
+      "Frequency": 26,
+      "Monetary": 10266,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "06e5eefc71ec47ae763c5c6f8db7064f",
+      "Recency": 595.2152,
+      "Frequency": 92,
+      "Monetary": 22806.56,
+      "Cluster": "2"
+    },
+    {
+      "CustomerID": "07017df32dc5f2f1d2801e579548d620",
+      "Recency": 613.6666,
+      "Frequency": 8,
+      "Monetary": 1014.39,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "070d165398b553f3b4b851c216b8a358",
+      "Recency": 592.3359,
+      "Frequency": 32,
+      "Monetary": 4337.8,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "0725b8c0f3f906e58f70cbe76b7c748c",
+      "Recency": 604.7811,
+      "Frequency": 17,
+      "Monetary": 4142.36,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "0743a0239d764b9a0f959a57d07e36ab",
+      "Recency": 612.2221,
+      "Frequency": 4,
+      "Monetary": 336.96,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "0747d5bb69f0586cc869d8af4c50f93e",
+      "Recency": 1016.1873,
+      "Frequency": 14,
+      "Monetary": 355.5,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "0761743cbffb25d7148189e9f1a5f03a",
+      "Recency": 792.1333,
+      "Frequency": 3,
+      "Monetary": 592.8,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "077c5fae4bea9500e3737b16f71b9d3a",
+      "Recency": 652.8782,
+      "Frequency": 4,
+      "Monetary": 193.2,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "0791d9fc1e30678ecf03d3e55fa108d3",
+      "Recency": 618.7991,
+      "Frequency": 5,
+      "Monetary": 2060,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "079d295dcbf06ee8bb1b65ba964eb2b6",
+      "Recency": 606.1006,
+      "Frequency": 5,
+      "Monetary": 859.3,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "07a9bc7f61396b658ddf3ac534efe44c",
+      "Recency": 1015.4442,
+      "Frequency": 1,
+      "Monetary": 119.9,
+      "Cluster": "3"
+    },
+    {
+      "CustomerID": "07bf9669d84d1f11be443a9dd938f698",
+      "Recency": 646.8468,
+      "Frequency": 18,
+      "Monetary": 2268,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "07d75e33f2750d97d467fb57e4dfdd8a",
+      "Recency": 695.7641,
+      "Frequency": 2,
+      "Monetary": 722.4,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "07de60b03d150fb3ea09eab5da5e4c8b",
+      "Recency": 599.0592,
+      "Frequency": 9,
+      "Monetary": 809,
+      "Cluster": "1"
+    },
+    {
+      "CustomerID": "07e8e8fc5222bb358e6f259da3197074",
+      "Recency": 605.0069,
+      "Frequency": 2,
+      "Monetary": 51.8,
+      "Cluster": "4"
+    },
+    {
+      "CustomerID": "080102cd0a76b09e0dcf55fcacc60e05",
+      "Recency": 591.2436,
+      "Frequency": 124,
+      "Monetary": 5964.26,
+      "Cluster": "2"
+    }
+  ],
+  "chart_file": "kmeans_clusters.png"
+}

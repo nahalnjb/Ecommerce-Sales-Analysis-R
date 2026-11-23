@@ -1,0 +1,444 @@
+{
+  "kpi": {
+    "total_revenue": 1153365.91,
+    "total_orders": 2878,
+    "total_customers": 445,
+    "total_products": 48,
+    "total_quantity": 273547,
+    "average_order_value": 400.75
+  },
+  "monthly_trend": [
+    {
+      "Month": "2010-12",
+      "Revenue": 71734.24,
+      "Orders": 101,
+      "Quantity": 17197,
+      "Customers": 70
+    },
+    {
+      "Month": "2011-01",
+      "Revenue": 83361.07,
+      "Orders": 198,
+      "Quantity": 19621,
+      "Customers": 117
+    },
+    {
+      "Month": "2011-02",
+      "Revenue": 85978.6,
+      "Orders": 209,
+      "Quantity": 20479,
+      "Customers": 125
+    },
+    {
+      "Month": "2011-03",
+      "Revenue": 100212.84,
+      "Orders": 257,
+      "Quantity": 24338,
+      "Customers": 149
+    },
+    {
+      "Month": "2011-04",
+      "Revenue": 114591.06,
+      "Orders": 307,
+      "Quantity": 25924,
+      "Customers": 172
+    },
+    {
+      "Month": "2011-05",
+      "Revenue": 135202.14,
+      "Orders": 438,
+      "Quantity": 31516,
+      "Customers": 211
+    },
+    {
+      "Month": "2011-06",
+      "Revenue": 121319.05,
+      "Orders": 380,
+      "Quantity": 28733,
+      "Customers": 186
+    },
+    {
+      "Month": "2011-07",
+      "Revenue": 116878.27,
+      "Orders": 288,
+      "Quantity": 26766,
+      "Customers": 172
+    },
+    {
+      "Month": "2011-08",
+      "Revenue": 97835.12,
+      "Orders": 242,
+      "Quantity": 23538,
+      "Customers": 149
+    },
+    {
+      "Month": "2011-09",
+      "Revenue": 90034.12,
+      "Orders": 211,
+      "Quantity": 22193,
+      "Customers": 128
+    },
+    {
+      "Month": "2011-10",
+      "Revenue": 74304.81,
+      "Orders": 162,
+      "Quantity": 17890,
+      "Customers": 109
+    },
+    {
+      "Month": "2011-11",
+      "Revenue": 60863.09,
+      "Orders": 81,
+      "Quantity": 15070,
+      "Customers": 57
+    },
+    {
+      "Month": "2011-12",
+      "Revenue": 1051.5,
+      "Orders": 4,
+      "Quantity": 282,
+      "Customers": 5
+    }
+  ],
+  "daily_trend": [
+    {
+      "Date": "2011-11-04",
+      "Revenue": 2332.59,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-05",
+      "Revenue": 2200.66,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-06",
+      "Revenue": 4836.92,
+      "Orders": 5
+    },
+    {
+      "Date": "2011-11-07",
+      "Revenue": 897.2,
+      "Orders": 4
+    },
+    {
+      "Date": "2011-11-08",
+      "Revenue": 1519.22,
+      "Orders": 3
+    },
+    {
+      "Date": "2011-11-09",
+      "Revenue": 1846.23,
+      "Orders": 5
+    },
+    {
+      "Date": "2011-11-10",
+      "Revenue": 4410.14,
+      "Orders": 6
+    },
+    {
+      "Date": "2011-11-11",
+      "Revenue": 1160.95,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-12",
+      "Revenue": 1530.57,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-13",
+      "Revenue": 3462.81,
+      "Orders": 4
+    },
+    {
+      "Date": "2011-11-14",
+      "Revenue": 2906.24,
+      "Orders": 3
+    },
+    {
+      "Date": "2011-11-15",
+      "Revenue": 3903.23,
+      "Orders": 4
+    },
+    {
+      "Date": "2011-11-16",
+      "Revenue": 428.89,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-11-17",
+      "Revenue": 822.28,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-18",
+      "Revenue": 3595.3,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-19",
+      "Revenue": 2846.35,
+      "Orders": 3
+    },
+    {
+      "Date": "2011-11-20",
+      "Revenue": 2172.36,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-21",
+      "Revenue": 552.25,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-11-22",
+      "Revenue": 1633.71,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-11-23",
+      "Revenue": 3374.12,
+      "Orders": 3
+    },
+    {
+      "Date": "2011-11-24",
+      "Revenue": 901.64,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-25",
+      "Revenue": 365.76,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-11-26",
+      "Revenue": 439.69,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-11-27",
+      "Revenue": 418.83,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-11-28",
+      "Revenue": 1487.46,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-11-30",
+      "Revenue": 333.3,
+      "Orders": 2
+    },
+    {
+      "Date": "2011-12-01",
+      "Revenue": 269.25,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-12-03",
+      "Revenue": 206.42,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-12-04",
+      "Revenue": 399.9,
+      "Orders": 1
+    },
+    {
+      "Date": "2011-12-05",
+      "Revenue": 175.93,
+      "Orders": 1
+    }
+  ],
+  "top_products": [
+    {
+      "StockCode": "POST",
+      "Description": "POSTAGE",
+      "Total_Revenue": 100752.12,
+      "Total_Quantity": 5615,
+      "Unique_Orders": 273
+    },
+    {
+      "StockCode": "M",
+      "Description": "Manual",
+      "Total_Revenue": 90374.82,
+      "Total_Quantity": 6020,
+      "Unique_Orders": 282
+    },
+    {
+      "StockCode": "22423",
+      "Description": "REGENCY CAKESTAND 3 TIER",
+      "Total_Revenue": 65449.44,
+      "Total_Quantity": 5125,
+      "Unique_Orders": 252
+    },
+    {
+      "StockCode": "22427",
+      "Description": "REGENCY TEAPOT ROSES",
+      "Total_Revenue": 57859.72,
+      "Total_Quantity": 5826,
+      "Unique_Orders": 291
+    },
+    {
+      "StockCode": "22622",
+      "Description": "BOX OF VINTAGE ALPHABET BLOCKS",
+      "Total_Revenue": 56272.04,
+      "Total_Quantity": 5652,
+      "Unique_Orders": 274
+    },
+    {
+      "StockCode": "22963",
+      "Description": "JAM JAR WALL CLOCK",
+      "Total_Revenue": 49776.64,
+      "Total_Quantity": 5863,
+      "Unique_Orders": 279
+    },
+    {
+      "StockCode": "48187",
+      "Description": "DOORMAT NEW ENGLAND",
+      "Total_Revenue": 48841.34,
+      "Total_Quantity": 6131,
+      "Unique_Orders": 275
+    },
+    {
+      "StockCode": "22752",
+      "Description": "SET 7 BABUSHKA NESTING BOXES",
+      "Total_Revenue": 47682.65,
+      "Total_Quantity": 6239,
+      "Unique_Orders": 289
+    },
+    {
+      "StockCode": "21777",
+      "Description": "RECIPE BOX WITH METAL HEART",
+      "Total_Revenue": 43764.09,
+      "Total_Quantity": 5497,
+      "Unique_Orders": 269
+    },
+    {
+      "StockCode": "21755",
+      "Description": "LOVE BUILDING BLOCK WORD",
+      "Total_Revenue": 33952.07,
+      "Total_Quantity": 5718,
+      "Unique_Orders": 270
+    }
+  ],
+  "bottom_products": [
+    {
+      "StockCode": "22424",
+      "Description": "REGENCY TEA SPOON",
+      "Total_Revenue": 7118.62,
+      "Total_Quantity": 5678,
+      "Unique_Orders": 268
+    },
+    {
+      "StockCode": "22961",
+      "Description": "JAM MAKING SET PRINTED",
+      "Total_Revenue": 7281.55,
+      "Total_Quantity": 5047,
+      "Unique_Orders": 269
+    },
+    {
+      "StockCode": "22310",
+      "Description": "IVORY KNITTED MUG COSY",
+      "Total_Revenue": 8753.97,
+      "Total_Quantity": 5317,
+      "Unique_Orders": 286
+    },
+    {
+      "StockCode": "84879",
+      "Description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "Total_Revenue": 8790.16,
+      "Total_Quantity": 5230,
+      "Unique_Orders": 258
+    },
+    {
+      "StockCode": "22382",
+      "Description": "LUNCH BAG SPACEBOY DESIGN",
+      "Total_Revenue": 8987.23,
+      "Total_Quantity": 5438,
+      "Unique_Orders": 255
+    },
+    {
+      "StockCode": "23207",
+      "Description": "LUNCH BAG ALPHABET",
+      "Total_Revenue": 8991.47,
+      "Total_Quantity": 5441,
+      "Unique_Orders": 292
+    },
+    {
+      "StockCode": "20726",
+      "Description": "LUNCH BAG WOODLAND",
+      "Total_Revenue": 9024.64,
+      "Total_Quantity": 5465,
+      "Unique_Orders": 273
+    },
+    {
+      "StockCode": "20728",
+      "Description": "LUNCH BAG CARS BLUE",
+      "Total_Revenue": 9161.34,
+      "Total_Quantity": 5554,
+      "Unique_Orders": 261
+    },
+    {
+      "StockCode": "22632",
+      "Description": "HAND WARMER RED POLKADOT",
+      "Total_Revenue": 9381.77,
+      "Total_Quantity": 5059,
+      "Unique_Orders": 267
+    },
+    {
+      "StockCode": "22383",
+      "Description": "LUNCH BAG SUKI DESIGN",
+      "Total_Revenue": 9492.51,
+      "Total_Quantity": 5771,
+      "Unique_Orders": 273
+    }
+  ],
+  "country_sales": [
+    {
+      "Country": "United Kingdom",
+      "Revenue": 863279.18,
+      "Orders": 2256,
+      "Customers": 367,
+      "Revenue_Share": 74.85
+    },
+    {
+      "Country": "Germany",
+      "Revenue": 109492.79,
+      "Orders": 233,
+      "Customers": 31,
+      "Revenue_Share": 9.49
+    },
+    {
+      "Country": "EIRE",
+      "Revenue": 80817.26,
+      "Orders": 152,
+      "Customers": 14,
+      "Revenue_Share": 7.01
+    },
+    {
+      "Country": "France",
+      "Revenue": 55577.09,
+      "Orders": 132,
+      "Customers": 22,
+      "Revenue_Share": 4.82
+    },
+    {
+      "Country": "Spain",
+      "Revenue": 28034.77,
+      "Orders": 71,
+      "Customers": 10,
+      "Revenue_Share": 2.43
+    },
+    {
+      "Country": "Netherlands",
+      "Revenue": 16164.82,
+      "Orders": 34,
+      "Customers": 7,
+      "Revenue_Share": 1.4
+    }
+  ],
+  "chart_file": "sales_overview.png"
+}

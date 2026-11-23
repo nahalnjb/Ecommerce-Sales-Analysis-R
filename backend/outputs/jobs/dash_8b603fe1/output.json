@@ -1,0 +1,668 @@
+{
+  "kpi": {
+    "total_revenue": 10642110.8,
+    "total_orders": 19960,
+    "total_customers": 4338,
+    "total_products": 3922,
+    "total_quantity": 5572420,
+    "average_order_value": 533.17
+  },
+  "monthly_trend": [
+    {
+      "Month": "2010-12",
+      "Revenue": 821452.73,
+      "Orders": 1559,
+      "Quantity": 358019,
+      "Customers": 886
+    },
+    {
+      "Month": "2011-01",
+      "Revenue": 689811.61,
+      "Orders": 1086,
+      "Quantity": 387099,
+      "Customers": 742
+    },
+    {
+      "Month": "2011-02",
+      "Revenue": 522545.56,
+      "Orders": 1100,
+      "Quantity": 282934,
+      "Customers": 759
+    },
+    {
+      "Month": "2011-03",
+      "Revenue": 716215.26,
+      "Orders": 1454,
+      "Quantity": 376599,
+      "Customers": 975
+    },
+    {
+      "Month": "2011-04",
+      "Revenue": 536968.49,
+      "Orders": 1246,
+      "Quantity": 307953,
+      "Customers": 857
+    },
+    {
+      "Month": "2011-05",
+      "Revenue": 769296.61,
+      "Orders": 1681,
+      "Quantity": 395001,
+      "Customers": 1057
+    },
+    {
+      "Month": "2011-06",
+      "Revenue": 760547.01,
+      "Orders": 1533,
+      "Quantity": 388511,
+      "Customers": 992
+    },
+    {
+      "Month": "2011-07",
+      "Revenue": 718076.12,
+      "Orders": 1475,
+      "Quantity": 399693,
+      "Customers": 950
+    },
+    {
+      "Month": "2011-08",
+      "Revenue": 757841.38,
+      "Orders": 1361,
+      "Quantity": 421020,
+      "Customers": 936
+    },
+    {
+      "Month": "2011-09",
+      "Revenue": 1056435.19,
+      "Orders": 1837,
+      "Quantity": 569573,
+      "Customers": 1267
+    },
+    {
+      "Month": "2011-10",
+      "Revenue": 1151263.73,
+      "Orders": 2040,
+      "Quantity": 621029,
+      "Customers": 1365
+    },
+    {
+      "Month": "2011-11",
+      "Revenue": 1503866.78,
+      "Orders": 2769,
+      "Quantity": 751377,
+      "Customers": 1665
+    },
+    {
+      "Month": "2011-12",
+      "Revenue": 637790.33,
+      "Orders": 819,
+      "Quantity": 313612,
+      "Customers": 616
+    }
+  ],
+  "daily_trend": [
+    {
+      "Date": "2011-11-06",
+      "Revenue": 42513.59,
+      "Orders": 102
+    },
+    {
+      "Date": "2011-11-07",
+      "Revenue": 85705.3,
+      "Orders": 93
+    },
+    {
+      "Date": "2011-11-08",
+      "Revenue": 57557.03,
+      "Orders": 108
+    },
+    {
+      "Date": "2011-11-09",
+      "Revenue": 65879.97,
+      "Orders": 119
+    },
+    {
+      "Date": "2011-11-10",
+      "Revenue": 70868,
+      "Orders": 129
+    },
+    {
+      "Date": "2011-11-11",
+      "Revenue": 55107.87,
+      "Orders": 105
+    },
+    {
+      "Date": "2011-11-13",
+      "Revenue": 33878.15,
+      "Orders": 87
+    },
+    {
+      "Date": "2011-11-14",
+      "Revenue": 114237.4,
+      "Orders": 107
+    },
+    {
+      "Date": "2011-11-15",
+      "Revenue": 60613.8,
+      "Orders": 108
+    },
+    {
+      "Date": "2011-11-16",
+      "Revenue": 65672.53,
+      "Orders": 130
+    },
+    {
+      "Date": "2011-11-17",
+      "Revenue": 60901.32,
+      "Orders": 137
+    },
+    {
+      "Date": "2011-11-18",
+      "Revenue": 51130.39,
+      "Orders": 108
+    },
+    {
+      "Date": "2011-11-20",
+      "Revenue": 34509.21,
+      "Orders": 100
+    },
+    {
+      "Date": "2011-11-21",
+      "Revenue": 49674.6,
+      "Orders": 100
+    },
+    {
+      "Date": "2011-11-22",
+      "Revenue": 63863.48,
+      "Orders": 135
+    },
+    {
+      "Date": "2011-11-23",
+      "Revenue": 79847,
+      "Orders": 131
+    },
+    {
+      "Date": "2011-11-24",
+      "Revenue": 50759.21,
+      "Orders": 113
+    },
+    {
+      "Date": "2011-11-25",
+      "Revenue": 50690.4,
+      "Orders": 83
+    },
+    {
+      "Date": "2011-11-27",
+      "Revenue": 20279.37,
+      "Orders": 57
+    },
+    {
+      "Date": "2011-11-28",
+      "Revenue": 56965.73,
+      "Orders": 115
+    },
+    {
+      "Date": "2011-11-29",
+      "Revenue": 72384.82,
+      "Orders": 135
+    },
+    {
+      "Date": "2011-11-30",
+      "Revenue": 60025.57,
+      "Orders": 108
+    },
+    {
+      "Date": "2011-12-01",
+      "Revenue": 52068.63,
+      "Orders": 121
+    },
+    {
+      "Date": "2011-12-02",
+      "Revenue": 57476.48,
+      "Orders": 120
+    },
+    {
+      "Date": "2011-12-04",
+      "Revenue": 24477.47,
+      "Orders": 66
+    },
+    {
+      "Date": "2011-12-05",
+      "Revenue": 88620.84,
+      "Orders": 127
+    },
+    {
+      "Date": "2011-12-06",
+      "Revenue": 56558.83,
+      "Orders": 115
+    },
+    {
+      "Date": "2011-12-07",
+      "Revenue": 75315.55,
+      "Orders": 106
+    },
+    {
+      "Date": "2011-12-08",
+      "Revenue": 82371.55,
+      "Orders": 120
+    },
+    {
+      "Date": "2011-12-09",
+      "Revenue": 200900.98,
+      "Orders": 44
+    }
+  ],
+  "top_products": [
+    {
+      "StockCode": "DOT",
+      "Description": "DOTCOM POSTAGE",
+      "Total_Revenue": 206248.77,
+      "Total_Quantity": 706,
+      "Unique_Orders": 706
+    },
+    {
+      "StockCode": "22423",
+      "Description": "REGENCY CAKESTAND 3 TIER",
+      "Total_Revenue": 174156.54,
+      "Total_Quantity": 13851,
+      "Unique_Orders": 1988
+    },
+    {
+      "StockCode": "23843",
+      "Description": "PAPER CRAFT , LITTLE BIRDIE",
+      "Total_Revenue": 168469.6,
+      "Total_Quantity": 80995,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "85123A",
+      "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "Total_Revenue": 104284.24,
+      "Total_Quantity": 37580,
+      "Unique_Orders": 2189
+    },
+    {
+      "StockCode": "47566",
+      "Description": "PARTY BUNTING",
+      "Total_Revenue": 99445.23,
+      "Total_Quantity": 18283,
+      "Unique_Orders": 1685
+    },
+    {
+      "StockCode": "85099B",
+      "Description": "JUMBO BAG RED RETROSPOT",
+      "Total_Revenue": 94159.81,
+      "Total_Quantity": 48371,
+      "Unique_Orders": 2089
+    },
+    {
+      "StockCode": "23166",
+      "Description": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "Total_Revenue": 81700.92,
+      "Total_Quantity": 78033,
+      "Unique_Orders": 247
+    },
+    {
+      "StockCode": "POST",
+      "Description": "POSTAGE",
+      "Total_Revenue": 78101.88,
+      "Total_Quantity": 3150,
+      "Unique_Orders": 1126
+    },
+    {
+      "StockCode": "M",
+      "Description": "Manual",
+      "Total_Revenue": 77750.27,
+      "Total_Quantity": 6984,
+      "Unique_Orders": 289
+    },
+    {
+      "StockCode": "23084",
+      "Description": "RABBIT NIGHT LIGHT",
+      "Total_Revenue": 66870.03,
+      "Total_Quantity": 30739,
+      "Unique_Orders": 994
+    }
+  ],
+  "bottom_products": [
+    {
+      "StockCode": "84227",
+      "Description": "HEN HOUSE W CHICK IN NEST",
+      "Total_Revenue": 0.42,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "23366",
+      "Description": "SET 12 COLOURING PENCILS DOILEY",
+      "Total_Revenue": 0.65,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "51014c",
+      "Description": "FEATHER PEN,COAL BLACK",
+      "Total_Revenue": 0.83,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "21268",
+      "Description": "VINTAGE BLUE TINSEL REEL",
+      "Total_Revenue": 0.84,
+      "Total_Quantity": 2,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "90084",
+      "Description": "PINK CRYSTAL GUITAR PHONE CHARM",
+      "Total_Revenue": 0.85,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "84201C",
+      "Description": "HAPPY BIRTHDAY CARD TEDDY/CAKE",
+      "Total_Revenue": 0.95,
+      "Total_Quantity": 5,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "84206B",
+      "Description": "CAT WITH SUNGLASSES BLANK CARD",
+      "Total_Revenue": 0.95,
+      "Total_Quantity": 5,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "84990",
+      "Description": "60 GOLD AND SILVER FAIRY CAKE CASES",
+      "Total_Revenue": 1.1,
+      "Total_Quantity": 2,
+      "Unique_Orders": 2
+    },
+    {
+      "StockCode": "21009",
+      "Description": "ETCHED GLASS STAR TREE DECORATION",
+      "Total_Revenue": 1.25,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "23370",
+      "Description": "SET 36 COLOURING PENCILS DOILEY",
+      "Total_Revenue": 1.25,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    }
+  ],
+  "country_sales": [
+    {
+      "Country": "United Kingdom",
+      "Revenue": 9001744.09,
+      "Orders": 18019,
+      "Customers": 3921,
+      "Revenue_Share": 84.59
+    },
+    {
+      "Country": "Netherlands",
+      "Revenue": 285446.34,
+      "Orders": 94,
+      "Customers": 9,
+      "Revenue_Share": 2.68
+    },
+    {
+      "Country": "EIRE",
+      "Revenue": 283140.52,
+      "Orders": 288,
+      "Customers": 4,
+      "Revenue_Share": 2.66
+    },
+    {
+      "Country": "Germany",
+      "Revenue": 228678.4,
+      "Orders": 457,
+      "Customers": 94,
+      "Revenue_Share": 2.15
+    },
+    {
+      "Country": "France",
+      "Revenue": 209625.37,
+      "Orders": 392,
+      "Customers": 88,
+      "Revenue_Share": 1.97
+    },
+    {
+      "Country": "Australia",
+      "Revenue": 138453.81,
+      "Orders": 57,
+      "Customers": 9,
+      "Revenue_Share": 1.3
+    },
+    {
+      "Country": "Spain",
+      "Revenue": 61558.56,
+      "Orders": 90,
+      "Customers": 30,
+      "Revenue_Share": 0.58
+    },
+    {
+      "Country": "Switzerland",
+      "Revenue": 57067.6,
+      "Orders": 54,
+      "Customers": 22,
+      "Revenue_Share": 0.54
+    },
+    {
+      "Country": "Belgium",
+      "Revenue": 41196.34,
+      "Orders": 98,
+      "Customers": 25,
+      "Revenue_Share": 0.39
+    },
+    {
+      "Country": "Sweden",
+      "Revenue": 38367.83,
+      "Orders": 36,
+      "Customers": 8,
+      "Revenue_Share": 0.36
+    },
+    {
+      "Country": "Japan",
+      "Revenue": 37416.37,
+      "Orders": 19,
+      "Customers": 8,
+      "Revenue_Share": 0.35
+    },
+    {
+      "Country": "Norway",
+      "Revenue": 36165.44,
+      "Orders": 36,
+      "Customers": 10,
+      "Revenue_Share": 0.34
+    },
+    {
+      "Country": "Portugal",
+      "Revenue": 33683.05,
+      "Orders": 58,
+      "Customers": 20,
+      "Revenue_Share": 0.32
+    },
+    {
+      "Country": "Finland",
+      "Revenue": 22546.08,
+      "Orders": 41,
+      "Customers": 12,
+      "Revenue_Share": 0.21
+    },
+    {
+      "Country": "Singapore",
+      "Revenue": 21279.29,
+      "Orders": 7,
+      "Customers": 1,
+      "Revenue_Share": 0.2
+    },
+    {
+      "Country": "Channel Islands",
+      "Revenue": 20440.54,
+      "Orders": 26,
+      "Customers": 9,
+      "Revenue_Share": 0.19
+    },
+    {
+      "Country": "Denmark",
+      "Revenue": 18955.34,
+      "Orders": 18,
+      "Customers": 9,
+      "Revenue_Share": 0.18
+    },
+    {
+      "Country": "Italy",
+      "Revenue": 17483.24,
+      "Orders": 38,
+      "Customers": 14,
+      "Revenue_Share": 0.16
+    },
+    {
+      "Country": "Hong Kong",
+      "Revenue": 15483,
+      "Orders": 11,
+      "Customers": 1,
+      "Revenue_Share": 0.15
+    },
+    {
+      "Country": "Cyprus",
+      "Revenue": 13502.85,
+      "Orders": 16,
+      "Customers": 8,
+      "Revenue_Share": 0.13
+    },
+    {
+      "Country": "Austria",
+      "Revenue": 10198.68,
+      "Orders": 17,
+      "Customers": 11,
+      "Revenue_Share": 0.1
+    },
+    {
+      "Country": "Israel",
+      "Revenue": 8129.41,
+      "Orders": 8,
+      "Customers": 4,
+      "Revenue_Share": 0.08
+    },
+    {
+      "Country": "Poland",
+      "Revenue": 7334.65,
+      "Orders": 19,
+      "Customers": 6,
+      "Revenue_Share": 0.07
+    },
+    {
+      "Country": "Greece",
+      "Revenue": 4760.52,
+      "Orders": 5,
+      "Customers": 4,
+      "Revenue_Share": 0.04
+    },
+    {
+      "Country": "Unspecified",
+      "Revenue": 4740.94,
+      "Orders": 13,
+      "Customers": 5,
+      "Revenue_Share": 0.04
+    },
+    {
+      "Country": "Iceland",
+      "Revenue": 4310,
+      "Orders": 7,
+      "Customers": 1,
+      "Revenue_Share": 0.04
+    },
+    {
+      "Country": "Canada",
+      "Revenue": 3666.38,
+      "Orders": 6,
+      "Customers": 4,
+      "Revenue_Share": 0.03
+    },
+    {
+      "Country": "USA",
+      "Revenue": 3580.39,
+      "Orders": 5,
+      "Customers": 4,
+      "Revenue_Share": 0.03
+    },
+    {
+      "Country": "Malta",
+      "Revenue": 2725.59,
+      "Orders": 5,
+      "Customers": 2,
+      "Revenue_Share": 0.03
+    },
+    {
+      "Country": "United Arab Emirates",
+      "Revenue": 1902.28,
+      "Orders": 3,
+      "Customers": 2,
+      "Revenue_Share": 0.02
+    },
+    {
+      "Country": "Lebanon",
+      "Revenue": 1693.88,
+      "Orders": 1,
+      "Customers": 1,
+      "Revenue_Share": 0.02
+    },
+    {
+      "Country": "Lithuania",
+      "Revenue": 1661.06,
+      "Orders": 4,
+      "Customers": 1,
+      "Revenue_Share": 0.02
+    },
+    {
+      "Country": "European Community",
+      "Revenue": 1300.25,
+      "Orders": 4,
+      "Customers": 1,
+      "Revenue_Share": 0.01
+    },
+    {
+      "Country": "Brazil",
+      "Revenue": 1143.6,
+      "Orders": 1,
+      "Customers": 1,
+      "Revenue_Share": 0.01
+    },
+    {
+      "Country": "RSA",
+      "Revenue": 1002.31,
+      "Orders": 1,
+      "Customers": 1,
+      "Revenue_Share": 0.01
+    },
+    {
+      "Country": "Czech Republic",
+      "Revenue": 826.74,
+      "Orders": 2,
+      "Customers": 1,
+      "Revenue_Share": 0.01
+    },
+    {
+      "Country": "Bahrain",
+      "Revenue": 754.14,
+      "Orders": 3,
+      "Customers": 3,
+      "Revenue_Share": 0.01
+    },
+    {
+      "Country": "Saudi Arabia",
+      "Revenue": 145.92,
+      "Orders": 1,
+      "Customers": 1,
+      "Revenue_Share": 0
+    }
+  ],
+  "chart_file": "dashboard_sales.png"
+}

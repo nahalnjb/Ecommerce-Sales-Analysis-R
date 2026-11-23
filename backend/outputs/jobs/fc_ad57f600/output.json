@@ -1,0 +1,221 @@
+{
+  "method": "ARIMA",
+  "model_name": "Auto-ARIMA (0,1,0)",
+  "horizon_months": 6,
+  "metrics": {
+    "RMSE": 264951.93,
+    "MAE": 142338.53,
+    "MAPE": 20556.53,
+    "AIC": 698.29,
+    "BIC": 699.51
+  },
+  "historical": [
+    {
+      "Period": "2016-09",
+      "Revenue": 329.44,
+      "Orders": 2,
+      "Quantity": 7
+    },
+    {
+      "Period": "2016-10",
+      "Revenue": 56209.58,
+      "Orders": 309,
+      "Quantity": 460
+    },
+    {
+      "Period": "2016-12",
+      "Revenue": 10.9,
+      "Orders": 1,
+      "Quantity": 1
+    },
+    {
+      "Period": "2017-01",
+      "Revenue": 91749.79,
+      "Orders": 573,
+      "Quantity": 865
+    },
+    {
+      "Period": "2017-02",
+      "Revenue": 272300.01,
+      "Orders": 1650,
+      "Quantity": 2246
+    },
+    {
+      "Period": "2017-03",
+      "Revenue": 380879.92,
+      "Orders": 2401,
+      "Quantity": 3286
+    },
+    {
+      "Period": "2017-04",
+      "Revenue": 339890.42,
+      "Orders": 2111,
+      "Quantity": 2690
+    },
+    {
+      "Period": "2017-05",
+      "Revenue": 562983.33,
+      "Orders": 3674,
+      "Quantity": 4836
+    },
+    {
+      "Period": "2017-06",
+      "Revenue": 513870.64,
+      "Orders": 3385,
+      "Quantity": 4388
+    },
+    {
+      "Period": "2017-07",
+      "Revenue": 516433.03,
+      "Orders": 3643,
+      "Quantity": 4939
+    },
+    {
+      "Period": "2017-08",
+      "Revenue": 646959.38,
+      "Orders": 4403,
+      "Quantity": 6109
+    },
+    {
+      "Period": "2017-09",
+      "Revenue": 686975.94,
+      "Orders": 4165,
+      "Quantity": 5561
+    },
+    {
+      "Period": "2017-10",
+      "Revenue": 802037.31,
+      "Orders": 4490,
+      "Quantity": 6417
+    },
+    {
+      "Period": "2017-11",
+      "Revenue": 1021119.28,
+      "Orders": 6314,
+      "Quantity": 9006
+    },
+    {
+      "Period": "2017-12",
+      "Revenue": 1017204.87,
+      "Orders": 6772,
+      "Quantity": 9262
+    },
+    {
+      "Period": "2018-01",
+      "Revenue": 947308.92,
+      "Orders": 6656,
+      "Quantity": 8731
+    },
+    {
+      "Period": "2018-02",
+      "Revenue": 926744.16,
+      "Orders": 6450,
+      "Quantity": 8887
+    },
+    {
+      "Period": "2018-03",
+      "Revenue": 1179288.74,
+      "Orders": 7636,
+      "Quantity": 10705
+    },
+    {
+      "Period": "2018-04",
+      "Revenue": 1085996.06,
+      "Orders": 6656,
+      "Quantity": 9288
+    },
+    {
+      "Period": "2018-05",
+      "Revenue": 1238550.9,
+      "Orders": 7572,
+      "Quantity": 10647
+    },
+    {
+      "Period": "2018-06",
+      "Revenue": 985759.23,
+      "Orders": 6019,
+      "Quantity": 8256
+    },
+    {
+      "Period": "2018-07",
+      "Revenue": 915129.81,
+      "Orders": 5922,
+      "Quantity": 7811
+    },
+    {
+      "Period": "2018-08",
+      "Revenue": 1193171.69,
+      "Orders": 7823,
+      "Quantity": 10392
+    },
+    {
+      "Period": "2018-09",
+      "Revenue": 16389.31,
+      "Orders": 82,
+      "Quantity": 141
+    },
+    {
+      "Period": "2020-02",
+      "Revenue": 145.98,
+      "Orders": 2,
+      "Quantity": 2
+    },
+    {
+      "Period": "2020-04",
+      "Revenue": 299.97,
+      "Orders": 1,
+      "Quantity": 3
+    }
+  ],
+  "forecast": [
+    {
+      "Period": "2020-05",
+      "Forecast_Revenue": 299.97,
+      "Lower_80": 0,
+      "Upper_80": 346573.93,
+      "Lower_95": 0,
+      "Upper_95": 529880.29
+    },
+    {
+      "Period": "2020-06",
+      "Forecast_Revenue": 299.97,
+      "Lower_80": 0,
+      "Upper_80": 490005.3,
+      "Lower_95": 0,
+      "Upper_95": 749239.64
+    },
+    {
+      "Period": "2020-07",
+      "Forecast_Revenue": 299.97,
+      "Lower_80": 0,
+      "Upper_80": 600064.06,
+      "Lower_95": 0,
+      "Upper_95": 917560
+    },
+    {
+      "Period": "2020-08",
+      "Forecast_Revenue": 299.97,
+      "Lower_80": 0,
+      "Upper_80": 692847.89,
+      "Lower_95": 0,
+      "Upper_95": 1059460.62
+    },
+    {
+      "Period": "2020-09",
+      "Forecast_Revenue": 299.97,
+      "Lower_80": 0,
+      "Upper_80": 774592.08,
+      "Lower_95": 0,
+      "Upper_95": 1184477.57
+    },
+    {
+      "Period": "2020-10",
+      "Forecast_Revenue": 299.97,
+      "Lower_80": 0,
+      "Upper_80": 848494.48,
+      "Lower_95": 0,
+      "Upper_95": 1297501.54
+    }
+  ],
+  "chart_file": "forecast_chart.png"
+}

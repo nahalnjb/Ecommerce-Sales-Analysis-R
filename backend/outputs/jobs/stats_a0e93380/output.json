@@ -1,0 +1,115 @@
+{
+  "statistics": {
+    "Quantity": {
+      "column": "Quantity",
+      "count": 524878,
+      "missing": 0,
+      "mean": 10.617,
+      "median": 4,
+      "mode": 1,
+      "min": 1,
+      "max": 80995,
+      "range": 80994,
+      "variance": 24423.448,
+      "std_dev": 156.28,
+      "iqr": 10,
+      "skewness": 469.539,
+      "quantiles": {
+        "q25": 1,
+        "q50": 4,
+        "q75": 11,
+        "q90": 24,
+        "q95": 30,
+        "q99": 100
+      }
+    },
+    "UnitPrice": {
+      "column": "UnitPrice",
+      "count": 524878,
+      "missing": 0,
+      "mean": 3.923,
+      "median": 2.08,
+      "mode": 1.25,
+      "min": 0.001,
+      "max": 13541.33,
+      "range": 13541.329,
+      "variance": 1302.707,
+      "std_dev": 36.093,
+      "iqr": 2.88,
+      "skewness": 205.084,
+      "quantiles": {
+        "q25": 1.25,
+        "q50": 2.08,
+        "q75": 4.13,
+        "q90": 7.95,
+        "q95": 9.95,
+        "q99": 16.98
+      }
+    },
+    "Revenue": {
+      "column": "Revenue",
+      "count": 524878,
+      "missing": 0,
+      "mean": 20.275,
+      "median": 9.92,
+      "mode": 15,
+      "min": 0,
+      "max": 168469.6,
+      "range": 168469.6,
+      "variance": 73817.394,
+      "std_dev": 271.694,
+      "iqr": 13.8,
+      "skewness": 504.23,
+      "quantiles": {
+        "q25": 3.9,
+        "q50": 9.92,
+        "q75": 17.7,
+        "q90": 33,
+        "q95": 59.8,
+        "q99": 183.6
+      }
+    }
+  },
+  "correlation_matrix": [
+    {
+      "Quantity": 1,
+      "UnitPrice": -0.004,
+      "Revenue": 0.907,
+      "_row": "Quantity"
+    },
+    {
+      "Quantity": -0.004,
+      "UnitPrice": 1,
+      "Revenue": 0.137,
+      "_row": "UnitPrice"
+    },
+    {
+      "Quantity": 0.907,
+      "UnitPrice": 0.137,
+      "Revenue": 1,
+      "_row": "Revenue"
+    }
+  ],
+  "covariance_matrix": [
+    {
+      "Quantity": 24423.448,
+      "UnitPrice": -21.369,
+      "Revenue": 38528.536,
+      "_row": "Quantity"
+    },
+    {
+      "Quantity": -21.369,
+      "UnitPrice": 1302.707,
+      "Revenue": 1347.192,
+      "_row": "UnitPrice"
+    },
+    {
+      "Quantity": 38528.536,
+      "UnitPrice": 1347.192,
+      "Revenue": 73817.394,
+      "_row": "Revenue"
+    }
+  ],
+  "numeric_columns": ["Quantity", "UnitPrice", "Revenue"],
+  "chart_file": "stats_distribution.png"
+}

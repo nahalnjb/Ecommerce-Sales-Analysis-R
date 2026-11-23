@@ -1,0 +1,493 @@
+{
+  "kpi": {
+    "total_revenue": 14434095.17,
+    "total_orders": 92398,
+    "total_customers": 3049,
+    "total_products": 31676,
+    "total_quantity": 126373,
+    "average_order_value": 156.22
+  },
+  "monthly_trend": [
+    {
+      "Month": "2016-09",
+      "Revenue": 329.44,
+      "Orders": 2,
+      "Quantity": 7,
+      "Customers": 2
+    },
+    {
+      "Month": "2016-10",
+      "Revenue": 52603.27,
+      "Orders": 290,
+      "Quantity": 435,
+      "Customers": 137
+    },
+    {
+      "Month": "2016-12",
+      "Revenue": 10.9,
+      "Orders": 1,
+      "Quantity": 1,
+      "Customers": 1
+    },
+    {
+      "Month": "2017-01",
+      "Revenue": 87176.93,
+      "Orders": 535,
+      "Quantity": 820,
+      "Customers": 174
+    },
+    {
+      "Month": "2017-02",
+      "Revenue": 259222.3,
+      "Orders": 1560,
+      "Quantity": 2133,
+      "Customers": 399
+    },
+    {
+      "Month": "2017-03",
+      "Revenue": 352871.56,
+      "Orders": 2248,
+      "Quantity": 3066,
+      "Customers": 468
+    },
+    {
+      "Month": "2017-04",
+      "Revenue": 315431.36,
+      "Orders": 1966,
+      "Quantity": 2515,
+      "Customers": 468
+    },
+    {
+      "Month": "2017-05",
+      "Revenue": 526627.88,
+      "Orders": 3437,
+      "Quantity": 4506,
+      "Customers": 572
+    },
+    {
+      "Month": "2017-06",
+      "Revenue": 483878.39,
+      "Orders": 3160,
+      "Quantity": 4110,
+      "Customers": 540
+    },
+    {
+      "Month": "2017-07",
+      "Revenue": 488983.42,
+      "Orders": 3437,
+      "Quantity": 4664,
+      "Customers": 583
+    },
+    {
+      "Month": "2017-08",
+      "Revenue": 611796.15,
+      "Orders": 4163,
+      "Quantity": 5745,
+      "Customers": 679
+    },
+    {
+      "Month": "2017-09",
+      "Revenue": 638173.84,
+      "Orders": 3918,
+      "Quantity": 5221,
+      "Customers": 706
+    },
+    {
+      "Month": "2017-10",
+      "Revenue": 757371.77,
+      "Orders": 4189,
+      "Quantity": 6053,
+      "Customers": 753
+    },
+    {
+      "Month": "2017-11",
+      "Revenue": 956613.49,
+      "Orders": 5923,
+      "Quantity": 8468,
+      "Customers": 906
+    },
+    {
+      "Month": "2017-12",
+      "Revenue": 943341.18,
+      "Orders": 6275,
+      "Quantity": 8537,
+      "Customers": 903
+    },
+    {
+      "Month": "2018-01",
+      "Revenue": 895631.07,
+      "Orders": 6273,
+      "Quantity": 8252,
+      "Customers": 918
+    },
+    {
+      "Month": "2018-02",
+      "Revenue": 861961.94,
+      "Orders": 6041,
+      "Quantity": 8314,
+      "Customers": 920
+    },
+    {
+      "Month": "2018-03",
+      "Revenue": 1103151.16,
+      "Orders": 7118,
+      "Quantity": 10011,
+      "Customers": 984
+    },
+    {
+      "Month": "2018-04",
+      "Revenue": 1019103.43,
+      "Orders": 6214,
+      "Quantity": 8729,
+      "Customers": 1075
+    },
+    {
+      "Month": "2018-05",
+      "Revenue": 1161452.41,
+      "Orders": 7103,
+      "Quantity": 9878,
+      "Customers": 1141
+    },
+    {
+      "Month": "2018-06",
+      "Revenue": 927267.8,
+      "Orders": 5651,
+      "Quantity": 7805,
+      "Customers": 1094
+    },
+    {
+      "Month": "2018-07",
+      "Revenue": 862718.74,
+      "Orders": 5554,
+      "Quantity": 7355,
+      "Customers": 1174
+    },
+    {
+      "Month": "2018-08",
+      "Revenue": 1112020.36,
+      "Orders": 7301,
+      "Quantity": 9613,
+      "Customers": 1376
+    },
+    {
+      "Month": "2018-09",
+      "Revenue": 16210.4,
+      "Orders": 79,
+      "Quantity": 133,
+      "Customers": 57
+    },
+    {
+      "Month": "2020-02",
+      "Revenue": 145.98,
+      "Orders": 2,
+      "Quantity": 2,
+      "Customers": 1
+    }
+  ],
+  "daily_trend": [
+    {
+      "Date": "2018-08-13",
+      "Revenue": 57562.99,
+      "Orders": 358
+    },
+    {
+      "Date": "2018-08-14",
+      "Revenue": 60765.15,
+      "Orders": 436
+    },
+    {
+      "Date": "2018-08-15",
+      "Revenue": 56347.56,
+      "Orders": 309
+    },
+    {
+      "Date": "2018-08-16",
+      "Revenue": 56740.23,
+      "Orders": 337
+    },
+    {
+      "Date": "2018-08-17",
+      "Revenue": 42067.27,
+      "Orders": 264
+    },
+    {
+      "Date": "2018-08-19",
+      "Revenue": 9557.73,
+      "Orders": 51
+    },
+    {
+      "Date": "2018-08-20",
+      "Revenue": 54652.69,
+      "Orders": 363
+    },
+    {
+      "Date": "2018-08-21",
+      "Revenue": 51526.38,
+      "Orders": 372
+    },
+    {
+      "Date": "2018-08-22",
+      "Revenue": 55297.43,
+      "Orders": 375
+    },
+    {
+      "Date": "2018-08-23",
+      "Revenue": 41764.79,
+      "Orders": 348
+    },
+    {
+      "Date": "2018-08-24",
+      "Revenue": 38815.45,
+      "Orders": 242
+    },
+    {
+      "Date": "2018-08-26",
+      "Revenue": 2615.73,
+      "Orders": 20
+    },
+    {
+      "Date": "2018-08-27",
+      "Revenue": 27437.91,
+      "Orders": 208
+    },
+    {
+      "Date": "2018-08-28",
+      "Revenue": 28676.5,
+      "Orders": 232
+    },
+    {
+      "Date": "2018-08-29",
+      "Revenue": 17881.61,
+      "Orders": 177
+    },
+    {
+      "Date": "2018-08-30",
+      "Revenue": 11363.22,
+      "Orders": 122
+    },
+    {
+      "Date": "2018-08-31",
+      "Revenue": 7188.83,
+      "Orders": 64
+    },
+    {
+      "Date": "2018-09-02",
+      "Revenue": 18.99,
+      "Orders": 1
+    },
+    {
+      "Date": "2018-09-03",
+      "Revenue": 4422.28,
+      "Orders": 32
+    },
+    {
+      "Date": "2018-09-04",
+      "Revenue": 3131.5,
+      "Orders": 20
+    },
+    {
+      "Date": "2018-09-05",
+      "Revenue": 1773.18,
+      "Orders": 11
+    },
+    {
+      "Date": "2018-09-06",
+      "Revenue": 2193.49,
+      "Orders": 7
+    },
+    {
+      "Date": "2018-09-10",
+      "Revenue": 2299,
+      "Orders": 1
+    },
+    {
+      "Date": "2018-09-11",
+      "Revenue": 233.02,
+      "Orders": 3
+    },
+    {
+      "Date": "2018-09-12",
+      "Revenue": 199.96,
+      "Orders": 1
+    },
+    {
+      "Date": "2018-09-13",
+      "Revenue": 299,
+      "Orders": 1
+    },
+    {
+      "Date": "2018-09-14",
+      "Revenue": 639.99,
+      "Orders": 2
+    },
+    {
+      "Date": "2018-09-18",
+      "Revenue": 999.99,
+      "Orders": 1
+    },
+    {
+      "Date": "2020-02-03",
+      "Revenue": 75.99,
+      "Orders": 1
+    },
+    {
+      "Date": "2020-02-05",
+      "Revenue": 69.99,
+      "Orders": 1
+    }
+  ],
+  "top_products": [
+    {
+      "StockCode": "bb50f2e236e5eea0100680137654686c",
+      "Description": "bb50f2e236e5eea0100680137654686c",
+      "Total_Revenue": 67540,
+      "Total_Quantity": 206,
+      "Unique_Orders": 178
+    },
+    {
+      "StockCode": "5769ef0a239114ac3a854af00df129e4",
+      "Description": "5769ef0a239114ac3a854af00df129e4",
+      "Total_Revenue": 60480,
+      "Total_Quantity": 36,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "6cdd53843498f92890544667809f1595",
+      "Description": "6cdd53843498f92890544667809f1595",
+      "Total_Revenue": 53680.5,
+      "Total_Quantity": 153,
+      "Unique_Orders": 140
+    },
+    {
+      "StockCode": "d1c427060a0f73f6b889a5c7c61f2ac4",
+      "Description": "d1c427060a0f73f6b889a5c7c61f2ac4",
+      "Total_Revenue": 46854.53,
+      "Total_Quantity": 341,
+      "Unique_Orders": 303
+    },
+    {
+      "StockCode": "99a4788cb24856965c36a24e339b6058",
+      "Description": "99a4788cb24856965c36a24e339b6058",
+      "Total_Revenue": 45187.16,
+      "Total_Quantity": 513,
+      "Unique_Orders": 439
+    },
+    {
+      "StockCode": "aca2eb7d00ea1a7b8ebd4e68314663af",
+      "Description": "aca2eb7d00ea1a7b8ebd4e68314663af",
+      "Total_Revenue": 43798.4,
+      "Total_Quantity": 613,
+      "Unique_Orders": 410
+    },
+    {
+      "StockCode": "422879e10f46682990de24d770e7f83d",
+      "Description": "422879e10f46682990de24d770e7f83d",
+      "Total_Revenue": 43251.23,
+      "Total_Quantity": 779,
+      "Unique_Orders": 342
+    },
+    {
+      "StockCode": "d6160fb7873f184099d9bc95e30376af",
+      "Description": "d6160fb7873f184099d9bc95e30376af",
+      "Total_Revenue": 43249.56,
+      "Total_Quantity": 31,
+      "Unique_Orders": 31
+    },
+    {
+      "StockCode": "3dd2a17168ec895c781a9191c1e95ad7",
+      "Description": "3dd2a17168ec895c781a9191c1e95ad7",
+      "Total_Revenue": 42731.5,
+      "Total_Quantity": 285,
+      "Unique_Orders": 236
+    },
+    {
+      "StockCode": "53b36df67ebb7c41585e8d54d6772e08",
+      "Description": "53b36df67ebb7c41585e8d54d6772e08",
+      "Total_Revenue": 39375.52,
+      "Total_Quantity": 335,
+      "Unique_Orders": 283
+    }
+  ],
+  "bottom_products": [
+    {
+      "StockCode": "8a3254bee785a526d548a81a9bc3c9be",
+      "Description": "8a3254bee785a526d548a81a9bc3c9be",
+      "Total_Revenue": 1.7,
+      "Total_Quantity": 2,
+      "Unique_Orders": 2
+    },
+    {
+      "StockCode": "46fce52cef5caa7cc225a5531c946c8b",
+      "Description": "46fce52cef5caa7cc225a5531c946c8b",
+      "Total_Revenue": 2.2,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "310dc32058903b6416c71faff132df9e",
+      "Description": "310dc32058903b6416c71faff132df9e",
+      "Total_Revenue": 2.29,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "680cc8535be7cc69544238c1d6a83fe8",
+      "Description": "680cc8535be7cc69544238c1d6a83fe8",
+      "Total_Revenue": 2.9,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "2e8316b31db34314f393806fd7b6e185",
+      "Description": "2e8316b31db34314f393806fd7b6e185",
+      "Total_Revenue": 2.99,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "0eeeb45e2f5911fd44282e5bb0c624ff",
+      "Description": "0eeeb45e2f5911fd44282e5bb0c624ff",
+      "Total_Revenue": 3.85,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "836c4b48c2b383bb38bb5788f828c596",
+      "Description": "836c4b48c2b383bb38bb5788f828c596",
+      "Total_Revenue": 3.9,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "c2fb26742f8484dbfe9a8d70bdc54025",
+      "Description": "c2fb26742f8484dbfe9a8d70bdc54025",
+      "Total_Revenue": 3.9,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "dc9f66a56b89e4278d921898a861a29a",
+      "Description": "dc9f66a56b89e4278d921898a861a29a",
+      "Total_Revenue": 3.9,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    },
+    {
+      "StockCode": "66389c9df136a25c8f131757ce3a6967",
+      "Description": "66389c9df136a25c8f131757ce3a6967",
+      "Total_Revenue": 3.99,
+      "Total_Quantity": 1,
+      "Unique_Orders": 1
+    }
+  ],
+  "country_sales": [
+    {
+      "Country": "Global",
+      "Revenue": 14434095.17,
+      "Orders": 92398,
+      "Customers": 3049,
+      "Revenue_Share": 100
+    }
+  ],
+  "chart_file": "sales_overview.png"
+}
